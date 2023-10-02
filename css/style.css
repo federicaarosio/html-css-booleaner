@@ -44,3 +44,15 @@
 .highlighted-text {
   background-color: yellow;
 }
+
+/* Tabella */
+
+th {
+  color: white;
+  background-color: #4ea0ff;
+  text-align: left;
+}
+
+.row-light-blue {
+  background-color: #b1e5f2;
+}
