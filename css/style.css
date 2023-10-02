@@ -1,0 +1,10 @@
+.logo-booleaner {
+  height: 100px;
+}
+
+.bg-header {
+  height: 200px;
+  background-image: url("../img/pattern.png");
+  background-repeat: repeat;
+  background-color: #4ea0ff;
+}
