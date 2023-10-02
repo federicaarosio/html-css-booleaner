@@ -11,7 +11,9 @@
   background-color: #4ea0ff;
 }
 
-/* Main */
+/* MAIN */
+
+/* Titolo, autore, data */
 
 .title-size {
   font-size: 45px;
@@ -29,4 +31,16 @@
 
 .author {
   color: #4ea0ff;
+}
+
+/* Foto */
+
+.caption-text {
+  font-size: 14px;
+}
+
+/* Paragrafo */
+
+.highlighted-text {
+  background-color: yellow;
 }
