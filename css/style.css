@@ -47,6 +47,10 @@
 
 /* Tabella */
 
+table {
+  border-collapse: collapse;
+}
+
 th {
   color: white;
   background-color: #4ea0ff;
